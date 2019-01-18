@@ -1,0 +1,22 @@
+<html>
+<head>
+    <title >Number To Words Conversion</title>
+</head>
+<body>
+
+    <script src="../src/numToWords.js"></script>
+    
+    <script>
+function converion()
+{
+  debugger;
+  
+   document.getElementById('con').innerText= numToWords(event.target.value);
+}
+    
+
+    </script>
+   Number: <input type="text" onkeyup="converion()" value="" />
+   Converted Value: <span id="con"></span>
+</body>
+</html>

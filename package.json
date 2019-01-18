@@ -1,0 +1,33 @@
+{
+  "name": "numtowords",
+  "version": "1.0.0",
+  "description": "number-to-words conversion upto length 16.",
+  "main": "./src/numtowords",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveenydabur73/num2Words.git"
+  },
+  "keywords": [
+    "number-to-words",
+    "numtowords",
+    "number",
+    "to",
+    "words",
+    "conversion",
+    "in",
+    "pure",
+    "javascript"
+  ],
+  "author": "Praveen Yadav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/praveenydabur73/num2Words/issues"
+  },
+  "homepage": "https://github.com/praveenydabur73/num2Words#readme"
+}
