@@ -7,3 +7,17 @@
 </div>
 
 *numtowords.js* is a lightweight ~1kb javascript library for working with numeral values. It was built to convert number to words  in javascript. 
+### Installation
+
+With [npm](https://www.npmjs.com/):
+
+```sh
+npm install --save numtowords.js
+
+
+```
+Javascript:-
+numToWords(12121212) : One hundred Twenty-One Thousand Two hundred Twelve
+
+
+numToWords(999999999999999999999999999999999) : Nine hundred Ninety-Nine nonillion Nine hundred Ninety-Nine octillion Nine hundred Ninety-Nine septillion Nine hundred Ninety-Nine Sextillion Nine hundred Ninety-Nine Quintillion Nine hundred Ninety-Nine Quadrillion Nine hundred Ninety-Nine Trillion Nine hundred Ninety-Nine Billion Nine hundred Ninety-Nine Million Nine hundred Ninety-Nine Thousand Nine hundred Ninety-Nine
