@@ -25,6 +25,6 @@ Number to words will accept numbers, strings as values.
 numToWords(12121212); // One hundred Twenty-One Thousand Two hundred Twelve
 
 
-numToWords(999999999999999999999999999999999);  //Nine hundred Ninety-Nine nonillion Nine hundred Ninety-Nine octillion Nine hundred Ninety-Nine septillion Nine hundred Ninety-Nine Sextillion Nine hundred Ninety-Nine Quintillion Nine hundred Ninety-Nine Quadrillion Nine hundred Ninety-Nine Trillion Nine hundred Ninety-Nine Billion Nine hundred Ninety-Nine Million Nine hundred Ninety-Nine Thousand Nine hundred Ninety-Nine
+numToWords(999999999999999999999999999999999);  //nine hundred ninety-nine nonillion nine hundred ninety-nine octillion nine hundred ninety-nine septillion nine hundred ninety-nine sextillion nine hundred ninety-nine quintillion nine hundred ninety-nine quadrillion nine hundred ninety-nine trillion nine hundred ninety-nine billion nine hundred ninety-nine million nine hundred ninety-nine thousand nine hundred ninety-nine
 
 ```

@@ -1,6 +1,6 @@
 {
   "name": "num2words",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "number-to-words conversion upto length 16.",
   "main": "./src/numtowords",
   "directories": {
