@@ -16,8 +16,16 @@ npm install --save numtowords.js
 
 
 ```
-Javascript:-
-numToWords(12121212) : One hundred Twenty-One Thousand Two hundred Twelve
+
+### Usage
+
+Number to words will accept numbers, strings as values.
+
+```javascript
+currency(123);      // 123.00
+numToWords(12121212); // One hundred Twenty-One Thousand Two hundred Twelve
 
 
-numToWords(999999999999999999999999999999999) : Nine hundred Ninety-Nine nonillion Nine hundred Ninety-Nine octillion Nine hundred Ninety-Nine septillion Nine hundred Ninety-Nine Sextillion Nine hundred Ninety-Nine Quintillion Nine hundred Ninety-Nine Quadrillion Nine hundred Ninety-Nine Trillion Nine hundred Ninety-Nine Billion Nine hundred Ninety-Nine Million Nine hundred Ninety-Nine Thousand Nine hundred Ninety-Nine
+numToWords(999999999999999999999999999999999);  //Nine hundred Ninety-Nine nonillion Nine hundred Ninety-Nine octillion Nine hundred Ninety-Nine septillion Nine hundred Ninety-Nine Sextillion Nine hundred Ninety-Nine Quintillion Nine hundred Ninety-Nine Quadrillion Nine hundred Ninety-Nine Trillion Nine hundred Ninety-Nine Billion Nine hundred Ninety-Nine Million Nine hundred Ninety-Nine Thousand Nine hundred Ninety-Nine
+
+```
