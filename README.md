@@ -2,17 +2,17 @@
 
 ![numtowords.js logo](https://user-images.githubusercontent.com/1062039/31397824-9dfa15f0-adac-11e7-9869-fb20746e90c1.png)
 
-# numtowords.js
+# num2words.js
 
 </div>
 
-*numtowords.js* is a lightweight ~1kb javascript library for working with numeral values. It was built to convert number to words  in javascript. 
+*num2words.js* is a lightweight ~1kb javascript library for working with numeral values. It was built to convert number to words  in javascript. 
 ### Installation
 
 With [npm](https://www.npmjs.com/):
 
 ```sh
-npm install --save numtowords.js
+npm install --save num2words.js
 
 
 ```
@@ -22,7 +22,6 @@ npm install --save numtowords.js
 Number to words will accept numbers, strings as values.
 
 ```javascript
-currency(123);      // 123.00
 numToWords(12121212); // One hundred Twenty-One Thousand Two hundred Twelve
 
 
