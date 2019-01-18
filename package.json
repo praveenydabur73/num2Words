@@ -1,5 +1,5 @@
 {
-  "name": "numtowords",
+  "name": "num2words",
   "version": "1.0.0",
   "description": "number-to-words conversion upto length 16.",
   "main": "./src/numtowords",
